@@ -50,7 +50,7 @@ Interested in AI or cybersecurity? Here's a clickable link to [Explore the Futur
 Check out this visually compelling image on **business analytics** in action:
 
 <a href="https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/">
-    <img src="https://ocw.mit.edu/static_shared/images/ocw_logo_white.cabdc9a745b03db3dad4.svg" alt="MIT OpenCourseWare" style="width:300px;">
+    <img src="https://ocw.mit.edu/static_shared/images/ocw_logo_white.cabdc9a745b03db3dad4.svg" alt="MIT OpenCourseWare" style="width:300px; background-color:black; padding:10px;">
 </a>
 
 ## Reminders for Continuous Growth
